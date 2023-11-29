@@ -1,16 +1,22 @@
-### Hi there 👋
+## Bem-vindo (a)!
 
-<!--
-**tvinente/tvinente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Formações:
+- Tecnólogo em Gestão de Segurança Privada (2011)
+- MBA em Gestão de Pessoas (2021)
+- Tecnólogo em Análise e Desenvolvimento de Sistemas (2023)
 
-Here are some ideas to get you started:
+### Linguagens Utilizadas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tvinente&layout=compact&bg_color=013&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+
+### GitHub Status:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tvinente&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+### Perfil:
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/talyta_vinente) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talyta-vinente/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/tvinente)
